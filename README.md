@@ -4,7 +4,7 @@
 
 ## This repository contains Python programs for various string manipulations.
 
-  - [Search Conditions in a String](#1-search-conditions-in-a-string)
+  - [Search Conditions in a String]
       -The program searches for the following patterns in a given string:
        1.%sh
        2.sh%
