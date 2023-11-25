@@ -1,0 +1,2 @@
+python was created by Guido van Rossum, and released in .
+Thank you.-
