@@ -39,7 +39,7 @@
        * This program reads the content of a text file, assuming it contains key-value pairs, and stores it in a dictionary.
 
   # Programs are tested with pytest and pylint.
-  ## [1. Search Conditions in a String](https://github.com/VismayaM-2003/Assignment3/blob/main/image1.png)
+  ## ![1. Search Conditions in a String](C:\Assignment\Assignment-3\image1.png)
   
 
 
