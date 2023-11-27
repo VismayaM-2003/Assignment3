@@ -6,9 +6,9 @@
 
   - [Search Conditions in a String](#1-search-conditions-in-a-string)
        * The program searches for the following patterns in a given string:
-          1.%sh
-          2.sh%
-          3.vi%li
+         - 1.%sh
+         - 2.sh%
+         - 3.vi%li
   - [Search and Replace "Visha" in a String](#2-search-and-replace-visha-in-a-string)
        * This program searches for the string "Visha" in a given string and replaces it with an empty string.
   - [Remove Digits from a Text File](#3-remove-digits-from-a-text-file)
