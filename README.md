@@ -40,7 +40,7 @@
 
   # Images tested with pytest and pylint.
   ## 1. Search Conditions in a String
-  (image1.png)
+  ![Image1](image1.png)
   
 
 
