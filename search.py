@@ -1,19 +1,16 @@
 """
 Search condition Module.
 
-This module provides a function to search conditions in a string. 
-
-Functions:
-- `check_condition(find_str)`: Reads the string, search conditions(%sh, sh%, vi%li).
+Module provides a function to search conditions in a string. 
 """
 import re
 
 def check_condition(input_string):
     """
-    To check the conditions in a list of strings and display them.
+    Check for conditions in a list of strings and display the matches.
 
     Parameters:
-       find_str (list): List of strings to search for conditions.
+       input_strings (list): List of strings to search for conditions.
 
     Returns:
        Tuple of matches for conditions %sh, sh%, and vi%li.

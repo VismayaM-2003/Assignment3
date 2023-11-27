@@ -1,22 +1,19 @@
 """
 Remove Digits Module.
 
-This module provides a function to read a text file and remove the digits,
+Module provides a function to read a text file and remove the digits,
 and writes the removed file into another file.
-
-Functions:
-- `remove_digits(file1, file2)`: reads the file1 and removing digits then writes into file2.
 """
-
 def remove_digits(file1, file2):
     """
-    To remove digits.
+    Remove digits from the content of file1 and write the modified content into file2.
 
     Args:
-       File1, File2: python.txt, python1.txt is to be processed.
+        file1 (str): The path to the input file containing digits.
+        file2 (str): The path to the output file where the modified content will be written.
 
     Returns:
-       Returns python1.txt without digits.
+        None. The function modifies the content of file2 by removing digits.
     """
     content = ""
     with open(file1, 'r', encoding="utf-8")as file_1, open(file2, 'w', encoding='utf-8')as file_2:

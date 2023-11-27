@@ -1,26 +1,22 @@
 """
 Test module for search.py
 
-This module contains test cases for the functions in search.py using pytest.
-
-Module to search conditions in the string.
+Module contains test cases for the functions in search.py using pytest.
 """
 from search import check_condition
 
 def test_check_condition():
     """
-    To test the check_condition function.
+    To test the conditions are matched with the given string.
 
-    Args:
-        check_condition(string): string format.
-
-    Returns:
-        Checks the correctness of the check_condition function.
+    Examples:
+    - Check conditions in the list ["vi%shnu", "she", "is", "very", "vi%liant", "also", "childish%", "and", "selfish%"].
     """
+
     find_str = ["vi%shnu", "she", "is", "very", "vi%liant", "also", "childish%", "and", "selfish%"]
 
     matches_1, matches_2, matches_3 = check_condition(find_str)
 
     assert matches_1 == ["vi%shnu"]
     assert matches_2 == ["childish%", "selfish%"]
-    assert matches_3 == ["vi%liant"]
+    assert matches_3 == ["vi%liant"], "Tested Successfully!"

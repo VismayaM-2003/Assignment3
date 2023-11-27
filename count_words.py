@@ -1,21 +1,18 @@
 """
 Word Count Module.
 
-This module provides a function to read a text file and return the count of words.
-
-Functions:
-- `count_words(path)`: Reads the specified text file and returns the count of words.
+Module provides a function to read a text file and return the count of words.
 """
 
 def count_words(path):
     """
-    To counts the number of words
+    Count the number of words in a text file.
 
     Args:
-        Path : (python.txt) text format is to be processed.
+        path (str): The path to the text file to be processed.
 
     Returns:
-        Counts of words from the python.txt file
+        int: The count of words in the specified text file.
     """
     with open(path, encoding="utf-8")as file:
         text = file.read()
