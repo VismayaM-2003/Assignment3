@@ -10,7 +10,8 @@ def test_check_condition():
     To test the conditions are matched with the given string.
 
     Examples:
-    - Check conditions in the list ["vi%shnu", "she", "is", "very", "vi%liant", "also", "childish%", "and", "selfish%"].
+    - Check conditions in the list 
+    ["vi%shnu", "she", "is", "very", "vi%liant", "also", "childish%", "and", "selfish%"].
     """
 
     find_str = ["vi%shnu", "she", "is", "very", "vi%liant", "also", "childish%", "and", "selfish%"]
