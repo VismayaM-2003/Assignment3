@@ -4,7 +4,9 @@
 
 ## This repository contains Python programs for various string manipulations.
 
-  - [Search Conditions in a String](#1-search-conditions-in-a-string)
+  - [Search Conditions in a String]
+  - [Python Program](https://github.com/VismayaM-2003/Assignment3/blob/main/search.py)
+  - [Pytest Program](https://github.com/VismayaM-2003/Assignment3/blob/main/test_search.py)
        * The program searches for the following patterns in a given string:
          - 1.%sh
          - 2.sh%
