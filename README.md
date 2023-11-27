@@ -38,8 +38,9 @@
   - [Pytest Code](https://github.com/VismayaM-2003/Assignment3/blob/main/test_dict.py)
        * This program reads the content of a text file, assuming it contains key-value pairs, and stores it in a dictionary.
 
-  # Programs are tested with pytest and pylint.
-  ## ![1. Search Conditions in a String](image1.png)
+  # Images tested with pytest and pylint.
+  ## 1. Search Conditions in a String
+  (image1.png)
   
 
 
