@@ -1,4 +1,4 @@
-# Assignment3
+![image](https://github.com/VismayaM-2003/Assignment3/assets/128399904/d5b49ce2-1597-4619-a991-d77fef8b95ef)# Assignment3
 
 ## String Manipulation Programs.
 
