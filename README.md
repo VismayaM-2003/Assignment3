@@ -33,6 +33,8 @@
        * This program reads the content of a text file and stores it in a list.
   ## Read a File into Dictionary
   - [Python Code](https://github.com/VismayaM-2003/Assignment3/blob/main/file_to_dict.py)
+      * [dict.txt file - Text file to be read into dictionary](https://github.com/VismayaM-2003/Assignment3/blob/main/dict.txt)
+      * [dict1.txt file - Text file to be read into dictionary](https://github.com/VismayaM-2003/Assignment3/blob/main/dict1.txt)
   - [Pytest Code](https://github.com/VismayaM-2003/Assignment3/blob/main/test_dict.py)
        * This program reads the content of a text file, assuming it contains key-value pairs, and stores it in a dictionary.
 
