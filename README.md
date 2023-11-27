@@ -17,11 +17,14 @@
        * This program searches for the string "Visha" in a given string and replaces it with an empty string.
   ## Remove Digits from a Text File
   - [Python Code](https://github.com/VismayaM-2003/Assignment3/blob/main/remove_digit.py)
+      * [python.txt file - Original File](https://github.com/VismayaM-2003/Assignment3/blob/main/python.txt)
+      * [python1.txt file - Removed Digits File](https://github.com/VismayaM-2003/Assignment3/blob/main/python1.txt)
   - [Pytest Code](https://github.com/VismayaM-2003/Assignment3/blob/main/test_remove_digit.py)
        * This program reads a text file named "PYTHON.TXT," removes all numbers or digits from its content, and writes the modified 
         content to a new file named "PYTHON1.TXT."
   ## Count Words in a Text File
   - [Python Code](https://github.com/VismayaM-2003/Assignment3/blob/main/count_words.py)
+       * [Count words from this file](https://github.com/VismayaM-2003/Assignment3/blob/main/python.txt)
   - [Pytest Code](https://github.com/VismayaM-2003/Assignment3/blob/main/test_count_words.py) 
        * This program reads a text file and returns the count of words in the file.
   ## Read a File to List
