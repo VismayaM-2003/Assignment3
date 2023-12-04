@@ -38,20 +38,5 @@
   - [Pytest Code](https://github.com/VismayaM-2003/Assignment3/blob/main/test_dict.py)
        * This program reads the content of a text file, assuming it contains key-value pairs, and stores it in a dictionary.
 
-  # Images tested with pytest and pylint.
-  ## 1. Search Conditions in a String
-  ![Image1](image1.png)
-  ## 2. Search and Replace "Visha" in a String
-  ![Image2](image2.1.png)
-  ![Image2.1](image2.2.png)
-  ## 3. Remove Digits from a Text File
-  ![Image3](image3.png)
-  ## 4. Count Words in a Text File
-  ![Image4.1](image4.1.png)
-  ![Image4.2](image4.2.png)
-  ## 5. Read a File to List
-  ![Image5](image5.png)
-  ## 6. Read a File into Dictionary
-  ![Image6](image6.png)
 
 
