@@ -11,9 +11,6 @@ def test_search_conditions_1():
 
     Examples:
        text_1(str): searches the conditions in the string text_1.
-
-    Raises:
-       AssertionError: Incorrect result for text_2.
     """
     # Test Case 1:
     text_1 = """vishali and sheeba are friends. sheeba is very innocent and childish girl.
