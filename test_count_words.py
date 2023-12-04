@@ -28,7 +28,7 @@ def test_count_words():
     test_2 = 'python1.txt'
     result_2 = count_words(test_2)
     assert result_2 == 13, "Tested Successfully!"
- 
+
     # Test Case 3: Count the words in 'dict.txt' file.
     test_3 = 'dict.txt'
     result_3 = count_words(test_3)

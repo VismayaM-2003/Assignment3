@@ -12,6 +12,9 @@ def test_replace_name():
     Examples:
     - Replace 'Visha' with an empty string in "Vismaya and Vishali are Friends."
     - Replace 'Visha' with an empty string in "Hello Visha, how are you?"
+
+    Raises:
+      Assertion Error: Incorrect result for text_4.
     """
     # Test case 1: Replace "Visha" with null
     text_1 = "Vismaya and li are friends"
