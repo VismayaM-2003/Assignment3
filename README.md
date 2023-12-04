@@ -39,6 +39,6 @@
        * This program reads the content of a text file, assuming it contains key-value pairs, and stores it in a dictionary.
 
   # Images Tested with PYTEST, PYLINT.
-      * In Screenshots directory you can find the images that are tested with pytest and pylint.
+  - In Screenshots directory you can find the images that are tested with pytest and pylint.
   
 
