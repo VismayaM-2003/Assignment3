@@ -38,7 +38,7 @@
   - [Pytest Code](https://github.com/VismayaM-2003/Assignment3/blob/main/test_dict.py)
        * This program reads the content of a text file, assuming it contains key-value pairs, and stores it in a dictionary.
 
-  # Images Tested with PYTEST, PYLINT.
+  # Images Tested with PYTEST and PYLINT.
   - In Screenshots directory you can find the images that are tested with pytest and pylint.
   
 
