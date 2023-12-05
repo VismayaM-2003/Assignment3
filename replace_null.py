@@ -17,6 +17,6 @@ def replace_name(text):
     name = text.replace("Visha", "")
     return name
 
-ABOUT = "Vismaya and Vishali are Friends."
-RESULT = replace_name(ABOUT)
-print(RESULT)
+about = "Vismaya and Vishali are Friends."
+result = replace_name(result)
+print(result)
