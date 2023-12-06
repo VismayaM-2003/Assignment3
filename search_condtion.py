@@ -35,6 +35,6 @@ she would inevitably bring to their lives."""
 
 result1, result2, result3 = search_conditions(text)
 
-print("Strings Ends with 'sh' \n ", result1)
-print("Strings Starts with 'sh' \n ", result2)
-print("Strings Starts with 'vi' and ends with 'li' \n ", result3)
+print("Ends with 'sh' \n", result1)
+print("Starts with 'sh' \n ", result2)
+print("Starts with 'vi' and ends with 'li' \n", result3)

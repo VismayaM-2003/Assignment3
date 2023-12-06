@@ -23,4 +23,4 @@ def count_words(path):
     return len(numbers)
 
 word = count_words("python.txt")
-print(f"Count of words: {word}")
+print(f"Count of words is: {word}")

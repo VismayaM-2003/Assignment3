@@ -20,7 +20,7 @@ def file_to_dict(file_path):
 
         for line in file:
             # Assuming the format is key:value
-            key, value = line.strip().split(':')
+            key, value = line.split(':')
             result[key] = value
         return result
 

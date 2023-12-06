@@ -3,7 +3,7 @@ Replace string Module.
 
 Module provides a function to read 'Visha' in a string and replace with null.
 """
-def replace_name(text):
+def replace_name(path):
     """
     Replace occurrences of 'Visha' with an empty string.
 
@@ -14,9 +14,9 @@ def replace_name(text):
         str: A new string with occurrences of 'Visha' replaced by an empty string.
     """
     # Replace "Visha" with null
-    name = text.replace("Visha", "")
+    name = path.replace("Visha", "")
     return name
 
-about = "Vismaya and Vishali are Friends."
-result = replace_name(result)
-print(result)
+ABOUT = "Vismaya and Vishali are Friends."
+RESULT = replace_name(ABOUT)
+print(RESULT)

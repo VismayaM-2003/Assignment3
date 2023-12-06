@@ -21,7 +21,7 @@ def test_replace_name():
     result_1 = replace_name(text_1)
     assert result_1 == 'Vismaya and li are friends', "Tested Successfully!"
 
-     # Test case 2: Replace "Visha" in an empty string
+    # Test case 2: Replace "Visha" in an empty string
     text_2 = ""
     result_2 = replace_name(text_2)
     assert result_2 == "", "Tested Successfully!"
